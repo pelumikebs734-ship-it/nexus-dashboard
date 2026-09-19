@@ -1,22 +1,21 @@
 # Nexus Dashboard
 
-A modern, clean, and customizable **Next.js SaaS & Admin Dashboard Starter Kit**.
+A modern, clean **Next.js 15 Admin Dashboard Starter Kit** built with TypeScript, Tailwind CSS, and dark mode support.
 
-Built with:
-- Next.js 15 (App Router)
-- TypeScript
-- Tailwind CSS
-- shadcn/ui ready
-- Dark / Light mode
-- Clean folder structure
+Perfect for SaaS products, admin panels, analytics dashboards, and internal tools.
 
 ## Features
 
-- Fully responsive
-- Dark & Light mode support
-- Ready for authentication (Clerk, NextAuth, Supabase, etc.)
-- Clean and scalable structure
-- Easy to customize
+- Next.js 15 (App Router)
+- TypeScript
+- Tailwind CSS
+- Dark / Light mode
+- Responsive sidebar layout
+- Stats cards with growth indicators
+- Performance overview section
+- Goals progress bars
+- Recent activity feed
+- Clean and modern UI
 
 ## Getting Started
 
